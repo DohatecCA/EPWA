@@ -1,13 +1,13 @@
-id: anf-ac
-name: ANF Autoridad de Certificación
-slogan: R + D + i, the only way to excellence
-website: https://anf.es/en/
+id: dohatec ca
+name: Dohatec Certifying Authority
+slogan: excellence,always
+website: http://www.dohatec-ca.com.bd/DohatecCA/index.jsp
 
 # Short description, longer content can be placed in `content/members/`
-description: Focused on actively contributing to the progress of society and improving the competitiveness of our customers, all of our products and solutions have been developed by our own engineering team, based in PKI technology.
+description: an international software vendor fuelled by professional competence and pride in a Digital World, enhancing earnings from the global marketplace and enriching the workforce intellectually,professionally and economically.
 
 # membership
-memberSince: 2021-11-12
+memberSince: 2024-04-02
 memberType: CA
 workingGroups:
   - 
@@ -24,22 +24,22 @@ blog:
 
 # Press Releases
 press: 
-  url: https://anf.es/en/press/
+  url: 
   feed: 
   language: en_US
 
 # Careers
 careers: 
-  url: https://anf.es/en/work-with-us/
+  url: https://dohatec.com/Career.aspx
   feed: 
   language: en_US
 
 # Social media
 social:
   twitter: 
-  facebook: 
+  facebook: https://www.facebook.com/dohatec
   instagram: 
-  linkedin: https://www.linkedin.com/company/anf-autoridad-de-certificaci-n/
+  linkedin: https://www.linkedin.com/company/dohatec-new-media/
   youtube: 
 
 # Here you can list those who represent or have represented the member.
@@ -47,12 +47,12 @@ social:
 # Those wo no longer represent an organization might have written blog posts,
 # to keep the attribution a from/till data range can be included.
 representatives:
-  - id: pablo-diaz
-    name: Pablo Díaz
-    role: IT Manager & Product Manager PKI
+  - id: 
+    name: Nuzhat Atiqua Nafis
+    role: Security Architect
     social:
       twitter: 
-      linkedin: 
+      linkedin: https://www.linkedin.com/in/nuzhat-nafis-42970656/
     description:
-      Pablo Díaz is the IT Manager and Product Manager PKI at ANF AC and represents the organization at the PKI Consortium.
+      Nuzhat is the Security Architect and operational head PKI at Dohatec New Media and represents the organization at the PKI Consortium.
 
